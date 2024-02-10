@@ -1,1 +1,2 @@
-# Portfolio
+# SeungGyu Kang's Portfolio
+
